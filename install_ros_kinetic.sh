@@ -5,7 +5,7 @@
 echo ""
 echo "[Note] Target OS version  >>> Ubuntu 16.04.x (xenial) or Linux Mint 18.x"
 echo "[Note] Target ROS version >>> ROS Kinetic Kame"
-echo "[Note] Catkin workspace   >>> $HOME/catkin_ws"
+echo "[Note] Catkin workspace   >>> $HOME/catkin_ws_g6"
 echo ""
 echo "PRESS [ENTER] TO CONTINUE THE INSTALLATION"
 echo "IF YOU WANT TO CANCEL, PRESS [CTRL] + [C]"
