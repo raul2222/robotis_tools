@@ -14,7 +14,7 @@ read
 echo "[Set the target OS, ROS version and name of catkin workspace]"
 name_os_version=${name_os_version:="xenial"}
 name_ros_version=${name_ros_version:="kinetic"}
-name_catkin_workspace=${name_catkin_workspace:="catkin_ws"}
+name_catkin_workspace=${name_catkin_workspace:="catkin_ws_g6"}
 
 echo "[Update the package lists and upgrade them]"
 sudo apt-get update -y
